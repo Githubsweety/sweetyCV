@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>cirriculum vitae</title>
+</head>
+<body>
+<table>
+<tr>
+<td>img src="" width="200px" height="200px"> </td>
+<td><h1>sweety parajuli</h1>
+<p>Adress"lalitpur,Nepal"</p>
+<p>Email:parajulisweety5@gamil.com</p>
+<p>Contact no:9863459689</p>
+</td>
+</tr>
+</table>
+<hr>
+<h3>Personal Information</h3>
+<table>
+<tr>
+<td>Date of birth</td>
+<td>:2000-08-26</td>
+</tr>
+<tr>
+<td>Gender</td>
+<td>fe</td>
+</tr>
+<tr>
+<td>Religion</td>
+<td>Hinduism</td>
+</tr>
+<td>Marital status</td>
+<td>:single</td>
+<tr>
+<td>Language</td>
+<td>:Nepali,Hindi and English</td>
+</tr>
+</table>
+<hr>
+<h4><u>Academic Qualification</u></h4>
+<table border="4">
+<tr>
+<th>Name of degree</th>
+<th>passed year</th>
+<th>GPA</th>
+</tr>
+<tr>
+<td>Bachelors</td>
+<td>Nesfield International College</td>
+<td>TU<?td>
+<td>computer</td>
+<td>2080</td>
+<td>3.65</td>
+</tr>
+<td>+2</td>
+ 
